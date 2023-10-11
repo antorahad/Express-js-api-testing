@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 13",
+        "features": "6.1-inch Super Retina XDR display, A15 Bionic chip, dual-camera system",
+        "price": 799.99,
+        "stock": 50,
+        "images": ["iphone13_image1.jpg", "iphone13_image2.jpg"]
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S21",
+        "features": "6.2-inch Dynamic AMOLED 2X display, Exynos 2100 chipset, triple-camera setup",
+        "price": 749.99,
+        "stock": 40,
+        "images": ["s21_image1.jpg", "s21_image2.jpg"]
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 6",
+        "features": "6.4-inch OLED display, Google Tensor chip, advanced camera technology",
+        "price": 799.99,
+        "stock": 30,
+        "images": ["pixel6_image1.jpg", "pixel6_image2.jpg"]
+    },
+    {
+        "id": 4,
+        "name": "OnePlus 9 Pro",
+        "features": "6.7-inch Fluid AMOLED display, Snapdragon 888 CPU, Hasselblad camera system",
+        "price": 899.99,
+        "stock": 20,
+        "images": ["oneplus9pro_image1.jpg", "oneplus9pro_image2.jpg"]
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi Mi 11",
+        "features": "6.81-inch AMOLED display, Snapdragon 888 CPU, 108MP camera",
+        "price": 699.99,
+        "stock": 35,
+        "images": ["mi11_image1.jpg", "mi11_image2.jpg"]
+    },
+    {
+        "id": 6,
+        "name": "Sony Xperia 1 III",
+        "features": "6.5-inch 4K OLED display, Snapdragon 888 CPU, Zeiss optics camera",
+        "price": 999.99,
+        "stock": 25,
+        "images": ["xperia1iii_image1.jpg", "xperia1iii_image2.jpg"]
+    },
+    {
+        "id": 7,
+        "name": "LG Velvet",
+        "features": "6.8-inch OLED display, Snapdragon 765G CPU, triple-camera system",
+        "price": 599.99,
+        "stock": 60,
+        "images": ["lgvelvet_image1.jpg", "lgvelvet_image2.jpg"]
+    },
+    {
+        "id": 8,
+        "name": "Oppo Find X3 Pro",
+        "features": "6.7-inch AMOLED display, Snapdragon 888 CPU, quad-camera setup",
+        "price": 849.99,
+        "stock": 15,
+        "images": ["findx3pro_image1.jpg", "findx3pro_image2.jpg"]
+    },
+    {
+        "id": 9,
+        "name": "Nokia 9 PureView",
+        "features": "5.99-inch P-OLED display, Snapdragon 845 CPU, penta-camera array",
+        "price": 399.99,
+        "stock": 50,
+        "images": ["nokia9pureview_image1.jpg", "nokia9pureview_image2.jpg"]
+    },
+    {
+        "id": 10,
+        "name": "Huawei P40 Pro",
+        "features": "6.58-inch OLED display, Kirin 990 CPU, Leica quad-camera system",
+        "price": 699.99,
+        "stock": 30,
+        "images": ["p40pro_image1.jpg", "p40pro_image2.jpg"]
+    }
+]
